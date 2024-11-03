@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Nicholas Yonath Boentoro, usually called Bun, currently I am studying at Bina Nusantara University, majoring in information systems. I have a passion for studying user interface user experience (UI/UX) and creating web or mobile applications.<br> nice to meet you!💫<br><br>🌱 I’m currently learning REACTJS<br><br>💬 Ask me about song, anyhting i  like singing and listening to it.
+Hi, my name is Nicholas Yonath Boentoro, usually called Bun, currently I am studying at Bina Nusantara University, majoring in information systems. I have a passion for studying user interface user experience (UI/UX) and creating web or mobile applications.<br> nice to meet you!💫<br><br>🌱 I’m currently learning REACT.JS ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&amp;logo=react&amp;logoColor=%2361DAFB)<br><br>💬 Ask me about song, anyhting i  like singing and listening to it.
 
 
 ## 🌐 Socials:
